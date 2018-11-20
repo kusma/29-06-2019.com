@@ -12,4 +12,4 @@ our wedding, which takes place on the weekend of 20th of June 2019, in the
 village Sayda near Dresden, Germany.
 
 So far, there's little information here. This is expected to change in the
-next week or so.
+next few weeks.
