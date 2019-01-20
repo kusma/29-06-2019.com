@@ -13,7 +13,3 @@ village Sayda near Dresden, Germany.
 
 So far, there's little information here. This is expected to change in the
 next few weeks.
-
-In the mean time, you can RSVP here (opens in new tab):
-
-<a class="btn btn-primary" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeLYs3B6RdTgtPgwBYkXXub9snsoozBnii9Ar8FwXZ8f1J7hA/viewform" role="button">RSVP</a>
