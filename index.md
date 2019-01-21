@@ -3,7 +3,7 @@ layout: home
 title: Susann's and Erik's wedding
 ---
 
-## Welcome
+# Susann's and Erik's wedding!
 
 Welcome to this small website, about our wedding.
 
