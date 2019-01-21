@@ -1,0 +1,70 @@
+- name: Norwegian
+  directions:
+  - date: 2019-06-28
+    from: OSL
+    to: SXF
+    options:
+    - departure-time: "7:00"
+      arrival-time: "8:35"
+      codes:
+      - DY1100
+    - departure-time: "10:00"
+      arrival-time: "11:35"
+      codes:
+      - DY1102
+    - departure-time: "18:00"
+      arrival-time: "19:35"
+      codes:
+      - DY1108
+  - date: 2019-06-30
+    from: SXF
+    to: OSL
+    options:
+    - departure-time: "10:00"
+      arrival-time: "11:45"
+      codes:
+      - DY1103
+    - departure-time: "20:05"
+      arrival-time: "21:45"
+      codes:
+      - DY1109
+- name: SAS
+  directions:
+  - date: 2019-06-28
+    from: OSL
+    to: TXL
+    options:
+    - departure-time: "19:55"
+      arrival-time: "21:30"
+      codes:
+      - SK4723
+  - date: 2019-06-30
+    from: TXL
+    to: OSL
+    options:
+    - departure-time: "21:45"
+      arrival-time: "23:20"
+      codes:
+      - SK4724
+- name: EasyJet
+  directions:
+  - date: 2019-06-28
+    from: OSL
+    to: TXL
+    options:
+    - departure-time: "09:50"
+      arrival-time: "11:35"
+      codes:
+      - EJU5778
+    - departure-time: "11:40"
+      arrival-time: "13:25"
+      codes:
+      - EJU5780
+  - date: 2019-06-30
+    from: TXL
+    to: OSL
+    options:
+    - departure-time: "11:25"
+      arrival-time: "13:10"
+      codes:
+      - EJU5777

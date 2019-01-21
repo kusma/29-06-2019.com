@@ -1,0 +1,83 @@
+- name: KLM
+  directions:
+  - date: 2019-06-28
+    from: OSL
+    to: DRS
+    options:
+    - departure-time: "9:20"
+      arrival-time: "13:35"
+      layover: AMS
+      layover-time: "1h 5m"
+      codes:
+      - KL1142
+      - KL1807
+  - date: 2019-06-30
+    from: DRS
+    to: OSL
+    options:
+    - departure-time: "18:00"
+      arrival-time: "22:35"
+      layover: AMS
+      layover-time: "1h 20m"
+      codes:
+      - KL1810
+      - KL1151
+- name: Lufthansa
+  directions:
+  - date: 2019-06-28
+    from: OSL
+    to: DRS
+    options:
+    - departure-time: "6:05"
+      arrival-time: "10:10"
+      layover: FRA
+      layover-time: "1h"
+      codes:
+      - LH865
+      - LH206
+    - departure-time: "9:15"
+      arrival-time: "13:10"
+      layover: FRA
+      layover-time: "50m"
+      codes:
+      - LH6281
+      - LH210
+    - departure-time: "11:50"
+      arrival-time: "16:40"
+      layover: MUC
+      layover-time: "1h 45m"
+      codes:
+      - LH2453
+      - LH2126
+    - departure-time: "18:45"
+      arrival-time: "23:05"
+      layover: FRA
+      layover-time: "1h 15m"
+      codes:
+      - LH2455
+      - LH2130
+  - date: 2019-06-30
+    from: DRS
+    to: OSL
+    options:
+    - departure-time: "10:50"
+      arrival-time: "14:55"
+      layover: FRA
+      layover-time: "1h 5m"
+      codes:
+      - LH211
+      - LH862
+    - departure-time: "14:00"
+      arrival-time: "18:00"
+      layover: FRA
+      layover-time: "1h 5m"
+      codes:
+      - LH215
+      - LH858
+    - departure-time: "18:50"
+      arrival-time: "23:05"
+      layover: FRA
+      layover-time: "1h 20m"
+      codes:
+      - LH219
+      - LH864
