@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Susann and Erik's wedding
+title: Susann's and Erik's wedding
 ---
 
 ## Welcome
