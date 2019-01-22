@@ -28,6 +28,7 @@ body {
 }
 
 #banner {
+  background-color: rgba($shadow-color,0.25);
   background-image: url("{{ site.baseurl }}{% link /assets/banner-bg.png %}");
   background-position: center;
   background-size: cover;
