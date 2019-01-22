@@ -4,7 +4,7 @@
 $primary: #00716f;
 $shadow-color: #580e1a;
 $font-family-sans-serif: 'Barlow Semi Condensed', sans-serif;
-$font-family-serif: 'Playfair Display', serif;
+$font-family-serif: 'Playfair Display', 'Times New Roman', serif;
 
 $font-size-base: 1.1rem;
 
@@ -40,6 +40,8 @@ body {
 
 h1, h2, h3 {
   font-family: $font-family-serif;
+  font-weight: 900;
+  font-style: italic;
 }
 
 .container {
