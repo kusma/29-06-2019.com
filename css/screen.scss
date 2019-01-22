@@ -1,6 +1,10 @@
 ---
 ---
+
 $primary: #00716f;
+$font-family-sans-serif: 'Barlow Semi Condensed', sans-serif;
+$font-family-serif: 'Playfair Display', serif;
+
 $table-border-color: $primary;
 
 @import 'bootstrap';
@@ -10,14 +14,13 @@ html {
 }
 
 body {
-  font-family: 'Barlow Semi Condensed', sans-serif;
   color: $primary;
   background-image: linear-gradient(#567473, #335453);
   background-attachment: fixed;
 }
 
 h1, h2, h3 {
-  font-family: 'Playfair Display', serif;
+  font-family: $font-family-serif;
 }
 
 .container {
