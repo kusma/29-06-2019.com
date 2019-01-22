@@ -19,6 +19,16 @@ body {
   background-attachment: fixed;
 }
 
+#banner {
+  background-image: url("{{ site.baseurl }}{% link /assets/banner-bg.png %}");
+  background-position: center;
+  background-size: cover;
+}
+
+#banner > img {
+  max-height: 400px;
+}
+
 h1, h2, h3 {
   font-family: $font-family-serif;
 }
