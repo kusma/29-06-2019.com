@@ -2,14 +2,12 @@
 layout: default
 ---
 
-<div class="home">
-  <div class="container pb-3">
-    <div class="row">
-      <img class="img-fluid w-100" src="{{ site.baseurl }}{% link /assets/banner.png %}">
-    </div>
-
-    <section class="pt-4">
-    {{ content }}
-    </section>
+<main class="container">
+  <div class="row">
+    <img class="img-fluid w-100" src="{{ site.baseurl }}{% link /assets/banner.png %}">
   </div>
-</div>
+
+  <section class="py-4">
+  {{ content }}
+  </section>
+</main>
