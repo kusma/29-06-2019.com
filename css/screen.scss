@@ -46,6 +46,12 @@ body {
   background: #ddd;
 }
 
+nav a {
+  font-weight: 700;
+  font-size: 1.25rem;
+  color: $primary !important;
+}
+
 h1, h2, h3 {
   font-family: $font-family-serif;
   font-weight: 900;
