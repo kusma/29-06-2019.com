@@ -29,7 +29,7 @@ body {
 
 #banner {
   background-color: rgba($shadow-color,0.25);
-  background-image: url("{{ site.baseurl }}{% link /assets/banner-bg.png %}");
+  background-image: url("{{ site.baseurl }}{% link /assets/banner-bg.jpg %}");
   background-position: center;
   background-size: cover;
   box-shadow: 0 5px 15px 0 rgba($shadow-color,0.25);
