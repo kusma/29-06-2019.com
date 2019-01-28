@@ -24,6 +24,48 @@ breakfast, which is enough for everyone!
   <iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d322574.75213734654!2d13.167321244366743!3d50.829823675707395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4709faf0ac42353b%3A0xa9716480daa2b72c!2sAlts%C3%A4chsischer+Gasthof+Kleines+Vorwerk!5e0!3m2!1sen!2sno!4v1548194453426" frameborder="0" allowfullscreen></iframe>
 </div>
 
+## Timetable
+
+Here's a tentative timetable of the activities of our big event. Times may
+change a bit, but we'll try to keep things as predictable as we can.
+
+<div class="row">
+<div class="col-md-4" markdown="1">
+
+### Friday
+
+| When    | What                           |
+|---------|--------------------------------|
+| All day | Guests arrive in Sayda         |
+| 18:00   | Family: dinner (Dresden)       |
+| 18:00   | Friends: dinner (Sayda)        |
+| 22:00   | Everyone: Meet & greet (Sayda) |
+
+</div>
+<div class="col-md-4" markdown="1">
+
+### Saturday
+
+| When  | What                   |
+|-------|------------------------|
+| 09:00 | <i class="fas fa-mug-hot"></i> Breakfast (optional) |
+| 15:00 | <i class="fas fa-gem"></i> Wedding ceremony         |
+| 18:00 | <i class="fas fa-utensils"></i> Dinner              |
+| 22:00 | <i class="fas fa-glass-cheers"></i> Party           |
+
+</div>
+<div class="col-md-4" markdown="1">
+
+### Sunday
+
+| When    | What                           |
+|---------|--------------------------------|
+| All day | Guests depart Sayda            |
+| 11:00   | Brunch (optional)              |
+
+</div>
+</div>
+
 ## Flights
 
 We have searched for some flight options for you, and here's the best ones we
@@ -89,7 +131,7 @@ contact us!
 <div class="col-md-6">
 <h5>{{ direction.date | date: '%B %d, %Y' }}, {{ direction.from }} to {{ direction.to }} </h5>
 
-<table class="table">
+<table>
   <thead>
     <tr>
       <th scope="col">time</th>

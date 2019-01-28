@@ -68,6 +68,10 @@ h2, h3 {
   overflow-x: hidden;
 }
 
+table {
+  @extend .table;
+}
+
 table, thead, tbody, th, td {
   border-width: 1px !important;
 }
