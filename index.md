@@ -34,12 +34,12 @@ change a bit, but we'll try to keep things as predictable as we can.
 
 ### Friday
 
-| When    | What                           |
-|---------|--------------------------------|
-| All day | Guests arrive in Sayda         |
-| 18:00   | Family: dinner (Dresden)       |
-| 18:00   | Friends: dinner (Sayda)        |
-| 22:00   | Everyone: Meet & greet (Sayda) |
+| When    | What                                                                    |
+|---------|-------------------------------------------------------------------------|
+| All day | <i class="fas fa-plane-arrival"></i> Guests arrive in Sayda             |
+| 18:00   | <i class="fas fa-utensils"></i> Family: dinner (Dresden)                |
+| 18:00   | <i class="fas fa-utensils"></i> Friends: dinner (Sayda)                 |
+| 22:00   | <i class="fas fa-glass-martini-alt"></i> Everyone: Meet & greet (Sayda) |
 
 </div>
 <div class="col-md-4" markdown="1">
@@ -49,7 +49,7 @@ change a bit, but we'll try to keep things as predictable as we can.
 | When  | What                   |
 |-------|------------------------|
 | 09:00 | <i class="fas fa-mug-hot"></i> Breakfast (optional) |
-| 15:00 | <i class="fas fa-gem"></i> Wedding ceremony         |
+| 15:00 | <i class="fas fa-heart"></i> Wedding ceremony       |
 | 18:00 | <i class="fas fa-utensils"></i> Dinner              |
 | 22:00 | <i class="fas fa-glass-cheers"></i> Party           |
 
@@ -58,10 +58,10 @@ change a bit, but we'll try to keep things as predictable as we can.
 
 ### Sunday
 
-| When    | What                           |
-|---------|--------------------------------|
-| All day | Guests depart Sayda            |
-| 11:00   | Brunch (optional)              |
+| When    | What                                                       |
+|---------|------------------------------------------------------------|
+| All day | <i class="fas fa-plane-departure"></i> Guests depart Sayda |
+| 11:00   | <i class="fas fa-mug-hot"></i> Brunch (optional)           |
 
 </div>
 </div>
