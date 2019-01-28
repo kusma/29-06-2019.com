@@ -66,6 +66,18 @@ change a bit, but we'll try to keep things as predictable as we can.
 </div>
 </div>
 
+## Dress code
+
+Generally speaking, the dress code is "dressy casual", which is defined as
+"somewhere between formal and casual". This means suits or sports coats for
+the guys, but a tie is optional. For the girls, it means a cocktail dress or
+a dressy skirt and top.
+
+This is a summer-wedding, and it's usually pretty warm in Sayda around this
+time of year. So keep that in mind, and dress accordingly. Also, ladies:
+because we will spend the evening on a lawn, we don't recommend wearing
+stilettos... You might regret it! Besides, dancing-shoes are more fun!
+
 ## Flights
 
 We have searched for some flight options for you, and here's the best ones we
