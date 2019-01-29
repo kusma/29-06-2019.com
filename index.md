@@ -34,12 +34,10 @@ change a bit, but we'll try to keep things as predictable as we can.
 
 ### Friday
 
-| When    | What                                                                    |
-|---------|-------------------------------------------------------------------------|
-| All day | <i class="fas fa-plane-arrival"></i> Guests arrive in Sayda             |
-| 18:00   | <i class="fas fa-utensils"></i> Family: dinner (Dresden)                |
-| 18:00   | <i class="fas fa-utensils"></i> Friends: dinner (Sayda)                 |
-| 22:00   | <i class="fas fa-glass-martini-alt"></i> Everyone: Meet & greet (Sayda) |
+| When    | What                                                        |
+|---------|-------------------------------------------------------------|
+| All day | <i class="fas fa-plane-arrival"></i> Guests arrive in Sayda |
+| 20:00   | <i class="fas fa-glass-martini-alt"></i> Meet & greet       |
 
 </div>
 <div class="col-md-4" markdown="1">
