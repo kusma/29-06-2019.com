@@ -43,8 +43,12 @@ body {
 #venue-map > iframe {
   width: 100%;
   height: 500px;
-  box-shadow: 0 0 15px 0 rgba($shadow-color,0.1);
   background: #ddd;
+}
+
+#venue-map > iframe,
+#venue-map-2 > img {
+  box-shadow: 0 0 15px 0 rgba($shadow-color,0.1);
 }
 
 nav a {
