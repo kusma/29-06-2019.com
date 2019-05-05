@@ -24,8 +24,8 @@ breakfast, in case someone wants to live a bit more privately.
   <iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d322574.75213734654!2d13.167321244366743!3d50.829823675707395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4709faf0ac42353b%3A0xa9716480daa2b72c!2sAlts%C3%A4chsischer+Gasthof+Kleines+Vorwerk!5e0!3m2!1sen!2sno!4v1548194453426" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<div id="venue-map-2" class="row pt-4">
-<img style="w-100" src="{% link /assets/venue-map.svg %}" alt="map of venue">
+<div id="venue-map-2" class="row pt-4 d-block">
+<img class="img-fluid w-100" src="{% link /assets/venue-map.svg %}" alt="map of venue">
 </div>
 
 
