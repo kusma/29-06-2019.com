@@ -14,11 +14,11 @@ village Sayda near Dresden, Germany.
 ## Where?
 
 The venue for our wedding is [Altsächsischer Gasthof Kleines Vorwerk](https://www.kleines-vorwerk.de/),
-which you can see on the map below.
+which you can see on the maps below.
 
-We have booked the entire place, which provides accommodation for most of the
-guests. Don't worry, we already reserved 4 extra rooms at the nearest bed &
-breakfast, which is enough for everyone!
+We have booked the entire place, which provides accommodation for all of the
+guests. Additionally, we have reserved 4 extra rooms at the nearest bed &
+breakfast, in case someone wants to live a bit more privately.
 
 <div id="venue-map" class="row">
   <iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d322574.75213734654!2d13.167321244366743!3d50.829823675707395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4709faf0ac42353b%3A0xa9716480daa2b72c!2sAlts%C3%A4chsischer+Gasthof+Kleines+Vorwerk!5e0!3m2!1sen!2sno!4v1548194453426" frameborder="0" allowfullscreen></iframe>
