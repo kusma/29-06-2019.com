@@ -44,8 +44,8 @@ change a bit, but we'll try to keep things as predictable as we can.
 
 ### Saturday
 
-| When  | What                   |
-|-------|------------------------|
+| When  | What                                                |
+|-------|-----------------------------------------------------|
 | 09:00 | <i class="fas fa-mug-hot"></i> Breakfast (optional) |
 | 15:00 | <i class="fas fa-heart"></i> Wedding ceremony       |
 | 18:00 | <i class="fas fa-utensils"></i> Dinner              |
