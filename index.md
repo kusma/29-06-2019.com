@@ -3,6 +3,8 @@ layout: home
 title: Susann's and Erik's wedding
 ---
 
+<p id="countdown"></p>
+
 # Susann's and Erik's Wedding!
 
 Welcome to this small website, about our wedding.
@@ -174,3 +176,31 @@ contact us!
 </div>
 
 {% endfor %}
+
+<script>
+  var target = new Date("June 29, 2019 20:00 (UTC)");
+  var countdown = document.getElementById("countdown");
+
+  function updateCountdown() {
+    var now = new Date();
+    var diff = target - now;
+    if (diff < 0) {
+      countdown.innerHTML = "";
+      return false;
+    }
+
+    var days = Math.floor(diff / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((diff % (1000 * 60)) / 1000);
+    countdown.innerHTML = "Countdown: " + days + "d " + hours + "h " + minutes + "m " + seconds + "s";
+    return true;
+  }
+
+  if (updateCountdown()) {
+    var i = setInterval(function() {
+      if (!updateCountdown())
+        clearInterval(i);
+    }, 1000);
+  }
+</script>
