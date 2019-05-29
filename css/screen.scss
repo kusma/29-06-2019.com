@@ -36,6 +36,10 @@ body {
   box-shadow: 0 5px 15px 0 rgba($shadow-color,0.25);
 }
 
+#countdown {
+  color: $shadow-color;
+};
+
 #banner > img {
   max-height: 400px;
 }
