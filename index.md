@@ -30,6 +30,14 @@ breakfast, in case someone wants to live a bit more privately.
 <img class="img-fluid w-100" src="{% link /assets/venue-map.svg %}" alt="map of venue">
 </div>
 
+## Weather forecast
+
+Here's the weather for the next 7 days in Sayda:
+
+<a class="weatherwidget-io" href="https://forecast7.com/en/50d7113d42/sayda/" data-font="Noto Sans" data-icons="Climacons Animated" data-mode="Forecast" data-theme="original" data-basecolor="rgba(0, 0, 0, 0)" data-accent="rgba(88, 14, 26, 0.02)" data-textcolor="#00716f" data-highcolor="#b6003a" data-lowcolor="#00549f" data-suncolor="#b68e00" data-mooncolor="#7487bc" data-cloudcolor="#9e9e9e" data-cloudfill="#d0d0d0" data-raincolor="#00549f" >Sayda, Germany</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
 
 ## Timetable
 
