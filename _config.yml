@@ -1,8 +1,8 @@
 title: Susann's and Erik's wedding!
 email: kusmabite@gmail.com
 description: Information about our wedding.
-baseurl: ""
-url: "https://29-06-2019.com"
+baseurl: "/29-06-2019.com/"
+url: "https://kusma.github.io/29-06-2019.com/"
 
 exclude: [Gemfile, Gemfile.lock, .editorconfig]
 markdown: kramdown
